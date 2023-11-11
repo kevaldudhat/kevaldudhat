@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kevaldudhat
 - 👀 I’m interested in Python programming and Cybersecurity
-- 🌱 I’m currently learning 100 days of Python
+- 🌱 I’m currently learning python programming from various YouTube channels
 - 💞️ I’m looking to collaborate on any python projects or Cybersecurity projects
 - 📫 How to reach me email: kevaldudhat2000@gmail.com
 
